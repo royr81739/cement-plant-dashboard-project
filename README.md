@@ -4,8 +4,10 @@ Hello! As an aspiring Data Analyst, I built this project using Excel and Power B
 
 
 My Dashboard Screenshots
-[Main Dashboard](Dashboard_Page_1)
-[Key Findings](Dashboard_Page_2)
+### Page 1: Main Dashboard
+![Main Dashboard](Dashboard_Page_1.PNG)
+### Page 2: Key Findings & Recommendations
+![Key Findings](Dashboard_Page_2.PNG)
 
 
 What I Found & Recommended:
